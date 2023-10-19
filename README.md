@@ -1,7 +1,7 @@
 # Codsoft_Intern
 #Projects
 #Output
-I'm a developer and this repository I have created to share my task/projects with Codsoft. It contain projects including Python Progamming and Web Development. The Python files are to run on pycharm and the Web Development files on Visual Studio Code. Python programming contains 3 files and Web Development also contains 3 files.
+I'm a developer and this repository I have created to share my task/projects with Codsoft. I used Pycharm for these projects. 
 
 (1)Calculator(PROJECT):
 Make sure you have Python installed on your computer.This project does not have any external dependencies, so you don't need to install additional libraries.
